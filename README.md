@@ -54,7 +54,7 @@ Add the images you want to analyze into the input folder. The model is optimized
 
 Execute the following command to start the detection process:
 
-    ```python detect.py --source ./input/ --weights runs/train/yolo_arma4/weights/best.pt --conf 0.5 --name yolo_arma
+    python detect.py --source ./input/ --weights runs/train/yolo_arma4/weights/best.pt --conf 0.5 --name yolo_arma
 
 4. **Visualize the Results**
 
