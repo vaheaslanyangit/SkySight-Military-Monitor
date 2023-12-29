@@ -22,7 +22,7 @@ Explore our project's development journey and insights through our case study an
 
 <p align="center">
 
-```git clone git@github.com:vaheaslanyangit/SkySight-Military-Monitor.git
+git clone git@github.com:vaheaslanyangit/SkySight-Military-Monitor.git
 
 </p>
 
