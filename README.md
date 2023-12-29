@@ -21,7 +21,9 @@ This project presents an advanced solution for detecting military vehicles in ae
 Explore our project's development journey and insights through our case study and tutorial:
 
 <p align="center">
-  Coming soon...
+
+```git clone git@github.com:vaheaslanyangit/SkySight-Military-Monitor.git
+
 </p>
 
 ## Model Capabilities
