@@ -3,15 +3,15 @@
 This project presents an advanced solution for detecting military vehicles in aerial imagery from the ARMA 3 simulation environment. Utilizing the cutting-edge capabilities of YOLOv5, this model is fine-tuned to recognize specific military vehicles under various conditions, demonstrating the power of computer vision in military applications.
 
 <p align="center">
-  <img src="media/skysightmonitor.png" alt="Compound" width="80%"/>
+  <img src="media/skysightmonitor.png" alt="Image" width="80%"/>
 </p>
 
 <p align="center">
-  <img src="media/skysightmonitor2.png" alt="Compound" width="80%"/>
+  <img src="media/skysightmonitor2.png" alt="Image" width="80%"/>
 </p>
 
 <p align="center">
-  <img src="media/skysightmonitor3.png" alt="Compound" width="80%"/>
+  <img src="media/skysightmonitor3.png" alt="Image" width="80%"/>
 </p>
 
 <p align="center">
@@ -21,7 +21,9 @@ This project presents an advanced solution for detecting military vehicles in ae
 Explore our project's development journey and insights through our case study and tutorial:
 
 <p align="center">
-  Coming soon...
+
+Coming Soon
+
 </p>
 
 ## Model Capabilities
@@ -42,7 +44,7 @@ To deploy this model in your environment, follow these steps:
 
     To clone the repository, use the following command:
 
-    ```git clone https://github.com/vaheaslanyangit/SkySight-Military-Monitor.git
+    git clone git@github.com:vaheaslanyangit/SkySight-Military-Monitor.git
 
 2. **Prepare Your Images:**
 
@@ -52,7 +54,7 @@ Add the images you want to analyze into the input folder. The model is optimized
 
 Execute the following command to start the detection process:
 
-    ```python detect.py --source ./input/ --weights runs/train/yolo_arma4/weights/best.pt --conf 0.5 --name yolo_arma
+    python detect.py --source ./input/ --weights runs/train/yolo_arma4/weights/best.pt --conf 0.5 --name yolo_arma
 
 4. **Visualize the Results**
 
