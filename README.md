@@ -22,7 +22,7 @@ Explore our project's development journey and insights through our case study an
 
 <p align="center">
 
-git clone git@github.com:vaheaslanyangit/SkySight-Military-Monitor.git
+Coming Soon
 
 </p>
 
@@ -44,7 +44,7 @@ To deploy this model in your environment, follow these steps:
 
     To clone the repository, use the following command:
 
-    ```git clone https://github.com/vaheaslanyangit/SkySight-Military-Monitor.git
+    git clone git@github.com:vaheaslanyangit/SkySight-Military-Monitor.git
 
 2. **Prepare Your Images:**
 
