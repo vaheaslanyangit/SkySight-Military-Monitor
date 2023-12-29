@@ -3,15 +3,15 @@
 This project presents an advanced solution for detecting military vehicles in aerial imagery from the ARMA 3 simulation environment. Utilizing the cutting-edge capabilities of YOLOv5, this model is fine-tuned to recognize specific military vehicles under various conditions, demonstrating the power of computer vision in military applications.
 
 <p align="center">
-  <img src="media/skysightmonitor.png" alt="Compound" width="80%"/>
+  <img src="media/skysightmonitor.png" alt="Image" width="80%"/>
 </p>
 
 <p align="center">
-  <img src="media/skysightmonitor2.png" alt="Compound" width="80%"/>
+  <img src="media/skysightmonitor2.png" alt="Image" width="80%"/>
 </p>
 
 <p align="center">
-  <img src="media/skysightmonitor3.png" alt="Compound" width="80%"/>
+  <img src="media/skysightmonitor3.png" alt="Image" width="80%"/>
 </p>
 
 <p align="center">
